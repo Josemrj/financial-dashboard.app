@@ -13,7 +13,7 @@
 - Date-fns
 - Lucide React
 
-**Note:** This project is currently under development, with only the front-end implemented at this moment.
+**Note:** This project is in the early stages of development, with only the front-end implemented at this moment.
 
 ## Available Scripts
 
